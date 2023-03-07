@@ -2,7 +2,7 @@ export const previewDB = {
   "project01": {
     "id" : "01",
     "name": "Creative<br>Keturah",
-    "thumbnailPath": "assets/resources/imgs/previewPics/CreativeKeturah/CKthb.png",
+    "thumbnailPath": "assets/resources/imgs/previewPics/CreativeKeturah/CK_thmb.webp",
     "preview" : {
       "previewPath": "pages/preview.html?id=01",
       "sitePath":"https://erikqbirch.github.io/CreativeKeturah/",
@@ -26,13 +26,13 @@ export const previewDB = {
   "project03": {
     "id" : "03",
     "name": "Difference<br>Auto-Detailing",
-    "thumbnailPath": "assets/resources/imgs/placeholder2.png",
+    "thumbnailPath": "assets/resources/imgs/previewPics/DifferenceAutoDetailing/Diff_thmb.webp",
     "preview" : {
       "previewPath": "pages/preview.html?id=03",
-      "sitePath":"youtube.com",
+      "sitePath":"https://erikqbirch.github.io/DifferenceAutoDetailing/index.html",
       "year":2022,
       "carouselImgs" :["assets/resources/imgs/previewPics/DifferenceAutoDetailing/Diff1.webp","assets/resources/imgs/previewPics/DifferenceAutoDetailing/Diff2.webp","assets/resources/imgs/previewPics/DifferenceAutoDetailing/Diff3.webp","assets/resources/imgs/previewPics/DifferenceAutoDetailing/Diff4.webp","assets/resources/imgs/previewPics/DifferenceAutoDetailing/Diff5.webp"],
-      "description" : ""
+      "description" : "This website was created for one of my college roommates and was used as my final project for my Bachelor's degree from BYU-Idaho."
     }
   },
   "project04": {
